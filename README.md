@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, I'm Shannon 👋
+
+### About Me
+I recently graduated with a master's in Biostatistics from National Taiwan University.
+
+### Side Projects
+
 
 <!--
 **shansshe/shansshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
