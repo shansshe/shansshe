@@ -4,7 +4,7 @@
 I recently graduated with a master's in Biostatistics from National Taiwan University.
 
 ### Side Projects
-1. [stock crawler and visualization](https://github.com/shansshe/stock-crawler)
+1. [Stock Crawler and Data Visualization](https://github.com/shansshe/stock-crawler)
 
 <!--
 **shansshe/shansshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
