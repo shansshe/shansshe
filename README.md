@@ -5,9 +5,11 @@ I recently graduated with a master's in Biostatistics from National Taiwan Unive
 
 ### Side Projects
 1. [Stock Crawler and Data Visualization](https://github.com/shansshe/stock-crawler)
-![image](https://github.com/shansshe/stock-crawler/blob/main/stockprice.png)
+<img src="https://github.com/shansshe/stock-crawler/blob/main/stockprice.png" alt="image" width="400"/>
+
 2. [Second-hand Bookstore DB Design](https://github.com/shansshe/SecondHand-Bookstore-DB)
-![shbookshop](https://github.com/shansshe/SecondHand-Bookstore-DB/blob/main/SHbookstore.jpg)
+<img src="https://github.com/shansshe/SecondHand-Bookstore-DB/blob/main/SHbookstore.jpg" alt="image" width="400"/>
+
 <!--
 **shansshe/shansshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
