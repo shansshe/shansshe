@@ -4,10 +4,10 @@
 I recently graduated with a master's in Biostatistics from National Taiwan University.
 
 ### Projects
-1. Master’s Thesis: A Testing Procedure for Identifying Dispersion Effects
+1. [Master’s Thesis: A Testing Procedure for Identifying Dispersion Effects](https://github.com/shansshe/project-files/blob/main/2024%20OofA%20slide.pdf)
 2. JOURS: A Data Integration Tool for MySQL
-3. Sampling and Clustering Analysis of Soybean Germplasm
-4. FunCore: a Core Gene Database for Fungi
+3. [Sampling and Clustering Analysis of Soybean Germplasm](https://github.com/shansshe/project-files/blob/main/2019%20CC%20poster.jpg)
+4. [FunCore: a Core Gene Database for Fungi](https://github.com/shansshe/project-files/blob/main/2018%20FunCore%20poster.pdf)
 
 ### Side Projects
 1. [Second-hand Bookstore DB Design](https://github.com/shansshe/SecondHand-Bookstore-DB): This project designs a MySQL database for a second-hand bookstore, featuring an ER model that visualizes the relationships between customers, staff, and publications. The database consists of nine tables that include information about customers, publications, staff, and providers, allowing for efficient data management and comprehensive analysis of bookstore operations.
