@@ -10,7 +10,9 @@ I recently graduated with a master's in Biostatistics from National Taiwan Unive
 4. [FunCore: a Core Gene Database for Fungi](https://github.com/shansshe/project-files/blob/main/2018%20FunCore%20poster.pdf)
 
 ### Side Projects
-1. [Second-hand Bookstore DB Design](https://github.com/shansshe/SecondHand-Bookstore-DB): This project designs a MySQL database for a second-hand bookstore, featuring an ER model that visualizes the relationships between customers, staff, and publications. The database consists of nine tables that include information about customers, publications, staff, and providers, allowing for efficient data management and comprehensive analysis of bookstore operations.
+1. [Uncovering the Impact of
+Climate on Indego Bike Rentals](https://github.com/shansshe/project-files/blob/main/Indego%20slide.pdf): Weather-related variables accounted for 79.14% of the variability in bike rental data. Findings indicate an increase in daily rentals during the fall season, with warmer weather conditions further contributing to higher rental rates.
+2. [Second-hand Bookstore DB Design](https://github.com/shansshe/SecondHand-Bookstore-DB): This project designs a MySQL database for a second-hand bookstore, featuring an ER model that visualizes the relationships between customers, staff, and publications. The database consists of nine tables that include information about customers, publications, staff, and providers, allowing for efficient data management and comprehensive analysis of bookstore operations.
 <div align="center">
     <img src="https://github.com/shansshe/SecondHand-Bookstore-DB/blob/main/SHbookstore.jpg" alt="Second-Hand Bookstore Database ER Diagram" width="500">
 </div>
