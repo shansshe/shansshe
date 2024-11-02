@@ -4,7 +4,7 @@
 I recently graduated with a master's in Biostatistics from National Taiwan University.
 
 ### Projects
-1. [Master’s Thesis: A Testing Procedure for Identifying Dispersion Effects](https://github.com/shansshe/project-files/blob/main/2024%20OofA%20slide.pdf)
+1. [Master’s Thesis: A Testing Procedure for Identifying Dispersion Effects](https://github.com/shansshe/project-files/blob/main/2024%20OofA%20slide.pdf): In this study, a new testing method using fiducial generalized pivotal quantities is developed to identify active dispersion effects in unreplicated order-of-addition experiments. Simulations show that this approach effectively controls empirical Type I error rates, with a drug combination experiment illustrating its application.
 2. [JOURS: A Data Integration Tool for MySQL](https://github.com/shansshe/project-files/blob/main/JOURS%20reports.pdf)
 3. [Sampling and Clustering Analysis of Soybean Germplasm](https://github.com/shansshe/project-files/blob/main/2019%20CC%20poster.jpg)
 4. [FunCore: a Core Gene Database for Fungi](https://github.com/shansshe/project-files/blob/main/2018%20FunCore%20poster.pdf)
